@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "ArboDiaGen"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: The Scientist
+      - href: Publications.qmd
+        text: Publications
+      - href: Devtools.qmd
+        text: Developed Tools
+
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+
+

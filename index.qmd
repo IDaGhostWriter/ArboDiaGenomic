@@ -1,0 +1,34 @@
+---
+title: "ArboDiaGen"
+
+format: 
+  html
+about:
+  template: trestles
+  image: files/avatar.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/IdrissaDieng18
+    - icon: github
+      text: Github
+      href: https://github.com/IDaGhostWriter/
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@idaghostwriter
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/idrissa-dieng-3b7415125/
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=0nGmC6cAAAAJ&hl=fr
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0002-8584-5592
+comments: false
+---
+
+Our Goals : 
+Tracking RNA viruses mainly Dengue and related Arboviruses, Understand how they Spread & Evolve, Evaluate available Diagnostic Tools, Analyze Erosion and Improve Existing 
+
+  [Researchgate](https://www.researchgate.net/profile/Idrissa-Dieng-2)
