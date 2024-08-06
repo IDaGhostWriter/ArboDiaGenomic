@@ -29,6 +29,6 @@ comments: false
 ---
 
 Our Goals : 
-Tracking RNA viruses mainly Dengue and related Arboviruses, Understand how they Spread & Evolve, Evaluate available Diagnostic Tools, Analyze Erosion and Improve Existing 
+Tracking RNA viruses mainly Dengue and related Arboviruses, Understand how they Spread & Evolve, Evaluate available Diagnostic Tools, Detect Diagnostic Erosion and Design Updated tools.
 
   [Researchgate](https://www.researchgate.net/profile/Idrissa-Dieng-2)
