@@ -1,5 +1,5 @@
 ---
-title: "Developed Tools"
+title: "Developed Tools & OPEN Science"
 listing:
   contents: Devtools
   sort: "date desc"
@@ -17,6 +17,6 @@ listing:
     - image-alt
     - categories
 page-layout: full
-title-block-banner: false
+title-block-banner: true
 comments: false
 ---

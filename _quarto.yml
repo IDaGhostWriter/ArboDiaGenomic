@@ -10,10 +10,12 @@ website:
         text: Home
       - href: about.qmd
         text: The Scientist
+      - href: DreamTeam.qmd
+        text: The Dream Team
       - href: Publications.qmd
         text: Publications
       - href: Devtools.qmd
-        text: Developed Tools
+        text: Developed Tools & OPEN Science
 
 
 format:
