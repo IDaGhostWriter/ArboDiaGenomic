@@ -1,47 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://IDaGhostWriter.github.io/Quarto_publish/Devtools/2024-07-02_DENV-2_Build.html</loc>
-    <lastmod>2024-08-07T20:07:30.283Z</lastmod>
+    <loc>https://IDaGhostWriter.github.io/Quarto_publish/OpenScience.html</loc>
+    <lastmod>2024-08-08T16:10:23.636Z</lastmod>
   </url>
   <url>
-    <loc>https://IDaGhostWriter.github.io/Quarto_publish/Devtools/2024-07-02_OMiCount.html</loc>
-    <lastmod>2024-08-07T20:07:30.284Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IDaGhostWriter.github.io/Quarto_publish/DreamTeam/2024-08-06_Mignane.html</loc>
-    <lastmod>2024-08-07T20:07:30.295Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IDaGhostWriter.github.io/Quarto_publish/Publications.html</loc>
-    <lastmod>2024-08-07T20:07:30.347Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IDaGhostWriter.github.io/Quarto_publish/index.html</loc>
-    <lastmod>2024-08-07T20:07:30.462Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IDaGhostWriter.github.io/Quarto_publish/Devtools.html</loc>
-    <lastmod>2024-08-07T20:07:30.283Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IDaGhostWriter.github.io/Quarto_publish/Publications/2024-08-06-Zika_Work/PublishedArticles.html</loc>
-    <lastmod>2024-08-07T20:07:30.349Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IDaGhostWriter.github.io/Quarto_publish/DreamTeam.html</loc>
-    <lastmod>2024-08-07T20:07:30.295Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IDaGhostWriter.github.io/Quarto_publish/DreamTeam/2024-08-07_Diamilatou.html</loc>
-    <lastmod>2024-08-07T20:07:30.295Z</lastmod>
+    <loc>https://IDaGhostWriter.github.io/Quarto_publish/Flavour.html</loc>
+    <lastmod>2024-08-08T16:05:16.463Z</lastmod>
   </url>
   <url>
     <loc>https://IDaGhostWriter.github.io/Quarto_publish/about.html</loc>
     <lastmod>2024-08-07T20:07:30.384Z</lastmod>
   </url>
   <url>
-    <loc>https://IDaGhostWriter.github.io/Quarto_publish/Devtools/2024-07-20_CHIKV_Build.html</loc>
+    <loc>https://IDaGhostWriter.github.io/Quarto_publish/DreamTeam/2024-08-07_Diamilatou.html</loc>
+    <lastmod>2024-08-07T20:07:30.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IDaGhostWriter.github.io/Quarto_publish/DreamTeam.html</loc>
+    <lastmod>2024-08-07T20:07:30.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IDaGhostWriter.github.io/Quarto_publish/OpenScience/2024-07-02_DENV-2_Build.html</loc>
+    <lastmod>2024-08-08T16:09:06.038Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IDaGhostWriter.github.io/Quarto_publish/Devtools.html</loc>
+    <lastmod>2024-08-08T16:12:13.761Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IDaGhostWriter.github.io/Quarto_publish/PublishedArticles.html</loc>
+    <lastmod>2024-08-08T16:21:04.111Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IDaGhostWriter.github.io/Quarto_publish/OpenScience/2024-07-20_CHIKV_Build.html</loc>
+    <lastmod>2024-08-08T16:09:06.039Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IDaGhostWriter.github.io/Quarto_publish/index.html</loc>
+    <lastmod>2024-08-07T20:07:30.462Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IDaGhostWriter.github.io/Quarto_publish/Publications.html</loc>
+    <lastmod>2024-08-07T20:07:30.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IDaGhostWriter.github.io/Quarto_publish/DreamTeam/2024-08-06_Mignane.html</loc>
+    <lastmod>2024-08-07T20:07:30.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IDaGhostWriter.github.io/Quarto_publish/Devtools/2024-07-02_OMiCount.html</loc>
     <lastmod>2024-08-07T20:07:30.284Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IDaGhostWriter.github.io/Quarto_publish/Flavour/2024-08-08-flavour.html</loc>
+    <lastmod>2024-08-08T16:23:06.586Z</lastmod>
   </url>
 </urlset>

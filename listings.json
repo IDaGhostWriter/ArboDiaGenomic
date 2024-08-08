@@ -1,16 +1,15 @@
 [
   {
-    "listing": "/Publications.html",
+    "listing": "/OpenScience.html",
     "items": [
-      "/Publications/2024-08-06-Zika_Work/PublishedArticles.html"
+      "/OpenScience/2024-07-20_CHIKV_Build.html",
+      "/OpenScience/2024-07-02_DENV-2_Build.html"
     ]
   },
   {
-    "listing": "/Devtools.html",
+    "listing": "/Flavour.html",
     "items": [
-      "/Devtools/2024-07-20_CHIKV_Build.html",
-      "/Devtools/2024-07-02_DENV-2_Build.html",
-      "/Devtools/2024-07-02_OMiCount.html"
+      "/Flavour/2024-08-08-flavour.html"
     ]
   },
   {
@@ -19,5 +18,15 @@
       "/DreamTeam/2024-08-07_Diamilatou.html",
       "/DreamTeam/2024-08-06_Mignane.html"
     ]
+  },
+  {
+    "listing": "/Devtools.html",
+    "items": [
+      "/Devtools/2024-07-02_OMiCount.html"
+    ]
+  },
+  {
+    "listing": "/Publications.html",
+    "items": []
   }
 ]
