@@ -14,6 +14,13 @@
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nFlavour of the month (August) : Focus on ZIKA virus\n\n\n\n\n\n\n\n\n\n\n\n2 min\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "Teaching/2024-07-02_tutorial.html",
+    "href": "Teaching/2024-07-02_tutorial.html",
+    "title": "Tutorial1",
+    "section": "",
+    "text": "Tutorial on programing basics"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "The Scientist",
@@ -84,13 +91,6 @@
     "text": "Launch of OMiCount: Innovating Molecular Diagnostics and Genomic Characterization We are thrilled to announce the launch of OMiCount, an innovative bioinformatics tool developed by Idrissa Dieng, a scientist at the Institut Pasteur de Dakar. OMiCount is designed to improve laboratory work, maximize precision and save time. To strengthen its wide use, In collaboration with Mamadou Cisse of the Digitalization and Information System Department (DDSI), the tool will soon be available to the general public via a web portal. The Oligonucleotides Mismatches Counter (OMiCount) is a transformative bioinformatics tool that evaluates the performance of primer sets against a diverse array of virus variants. This innovation significantly enhances molecular diagnostics and genomic characterization, making substantial contributions to virology, public health, and genomic surveillance. OMiCount has also contributed to the discovery of a key element in the diagnosis of the chikungunya virus. The discovery was published online last week CDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype\nKey Impacts of OMiCount:\n1. Improved Molecular Diagnostics: Primer Validation, Rapid Adaptation, Efficiency and Degenerate Primer Design.\n2. Enhanced Genomic Characterization: Comprehensive Analysis, Visual Representation and Optimized Primers 3. Supporting Genomic Surveillance: Real-Time Monitoring, Accurate Detection and Adaptability.\n4. Facilitating Public Health Responses: Timely Identification, Resource Optimization and Enhanced Testing Capabilities. 5. Global Health Impact: Preparedness and Response, Collaborative Efforts and Innovation in Diagnostics.\nIn summary, OMiCount significantly enhances molecular diagnostics and genomic characterization by providing a simple, reliable, efficient, and comprehensive method for oligonucleotide performance evaluation. Its ability to adapt to viral evolution, generate degenerate primers, and offer clear visualizations of primer performance makes it an indispensable tool in the ongoing efforts to combat viral diseases and the mitigation of their impact in public health.\nCheck out my researchgate web page to learn more about my scientifique publications for more info on how to get the most out of my work. Files related to ressources for reproducible research are available at [Idrissa’s GitHub repo][IDaGhostWriter-gh]. If you have questions or collaboration requests send an email."
   },
   {
-    "objectID": "Flavour/2024-08-08-flavour.html",
-    "href": "Flavour/2024-08-08-flavour.html",
-    "title": "Flavour of the month (August) : Focus on ZIKA virus",
-    "section": "",
-    "text": ". .\nAbstract:\nZika virus is an emerging mosquito-borne virus of concern for public health, but very little is known about its transmission patterns and ecology, especially in African countries. Here, we expanded the genomic information by sequencing Zika viruses isolated from mosquitoes collected in Kedougou, Senegal, located in Western Africa. All new genomes are part of the African genotype, within the virus lineage previously characterized as the Western Lineage. Sequences were strongly clustered by sampling location and date of the collection respectively, suggesting a highly focal geographical and temporal distribution. Our phylogeographic reconstructions indicated that the African genotype of the Zika virus Western Lineage emerged in the Western part of Africa mostly following an East-to-West migration pattern. The analyses further revealed that the African genotype of the Zika virus was likely introduced in Western Africa between 1957 and 1974. Since the emergence of the Zika virus in Western Africa, we found a decrease in the effective population size of the Zika virus Western Lineage, but stagnating in recent years in the Kedougou region. Over time, no significant increase was recorded in the CAI values for A. aegypti and H. sapiens. In summary, the integrated results indicate that the African genotype ZIKV continues to circulate in forest areas, using sylvatic mosquitoes as vectors in Western Africa, with a long period of persistence at a local scale, with an accumulation of diversity over time, and without any evidence of adaptation based in CAI values to the urban environment.\nKeywords : Zika virus; African genotype; Senegal; Western Lineage; Western Africa"
-  },
-  {
     "objectID": "Knowshare.html",
     "href": "Knowshare.html",
     "title": "Knowledge Sharing",
@@ -98,10 +98,10 @@
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTutorial1\n\n\n\n\n\n\n\n\n\n\n\nJul 16, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "Teaching/2024-07-02_tutorial.html",
-    "href": "Teaching/2024-07-02_tutorial.html",
-    "title": "Tutorial1",
+    "objectID": "Flavour/2024-08-08-flavour.html",
+    "href": "Flavour/2024-08-08-flavour.html",
+    "title": "Flavour of the month (August) : Focus on ZIKA virus",
     "section": "",
-    "text": "Tutorial on programing basics"
+    "text": ". .\nAbstract:\nZika virus is an emerging mosquito-borne virus of concern for public health, but very little is known about its transmission patterns and ecology, especially in African countries. Here, we expanded the genomic information by sequencing Zika viruses isolated from mosquitoes collected in Kedougou, Senegal, located in Western Africa. All new genomes are part of the African genotype, within the virus lineage previously characterized as the Western Lineage. Sequences were strongly clustered by sampling location and date of the collection respectively, suggesting a highly focal geographical and temporal distribution. Our phylogeographic reconstructions indicated that the African genotype of the Zika virus Western Lineage emerged in the Western part of Africa mostly following an East-to-West migration pattern. The analyses further revealed that the African genotype of the Zika virus was likely introduced in Western Africa between 1957 and 1974. Since the emergence of the Zika virus in Western Africa, we found a decrease in the effective population size of the Zika virus Western Lineage, but stagnating in recent years in the Kedougou region. Over time, no significant increase was recorded in the CAI values for A. aegypti and H. sapiens. In summary, the integrated results indicate that the African genotype ZIKV continues to circulate in forest areas, using sylvatic mosquitoes as vectors in Western Africa, with a long period of persistence at a local scale, with an accumulation of diversity over time, and without any evidence of adaptation based in CAI values to the urban environment.\nKeywords : Zika virus; African genotype; Senegal; Western Lineage; Western Africa"
   }
 ]
