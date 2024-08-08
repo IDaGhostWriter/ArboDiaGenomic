@@ -13,20 +13,16 @@
     ]
   },
   {
-    "listing": "/DreamTeam.html",
-    "items": [
-      "/DreamTeam/2024-08-07_Diamilatou.html",
-      "/DreamTeam/2024-08-06_Mignane.html"
-    ]
-  },
-  {
     "listing": "/Devtools.html",
     "items": [
       "/Devtools/2024-07-02_OMiCount.html"
     ]
   },
   {
-    "listing": "/Publications.html",
-    "items": []
+    "listing": "/DreamTeam.html",
+    "items": [
+      "/DreamTeam/2024-08-07_Diamilatou.html",
+      "/DreamTeam/2024-08-06_Mignane.html"
+    ]
   }
 ]
