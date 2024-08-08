@@ -6,7 +6,7 @@ date:   2024-08-07 15:22:37 +0000
 
 ![](Diamilatou_2.png)
 
-Diamilatou Balde aka "Mbappe" is an awesome MsC student working on the Molecular Epidemiology and Diagnostic of  Arbovirues. She primarily focused on Dengue Chikungunya viruses.
+Diamilatou Balde aka **"Mbappe"** is an awesome MsC student working on the Molecular Epidemiology and Diagnostic of  Arbovirues. She primarily focused on Dengue Chikungunya viruses.
 
 
 Skills : Classical Virology, Molecular Biology, Sequencing, ELISA

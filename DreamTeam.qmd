@@ -20,4 +20,4 @@ page-layout: full
 title-block-banner: true
 comments: false
 ---
-The is composed with Young and Awesome Scientists.
+My Young, Awesome and Superstars Scientists.

@@ -3,8 +3,10 @@ project:
   output-dir: docs
 
 website:
+  favicon: ./files/avatar.jpg
   title: "ArboDiaGen"
   navbar:
+    logo: ./files/image.png
     left:
       - href: index.qmd
         text: Home
@@ -20,11 +22,11 @@ website:
         text: Open Science
       - href: Devtools.qmd
         text: Developed Tools
-
-
 format:
   html:
-    theme: sandstone
+    theme:
+      light: cosmmo
+      dark: sandstone
     css: styles.css
     toc: true
 
