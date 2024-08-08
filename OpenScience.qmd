@@ -1,7 +1,7 @@
 ---
-title: "Developed Tools"
+title: "OPEN Science"
 listing:
-  contents: Devtools
+  contents: OpenScience
   sort: "date desc"
   type: default
   categories: true

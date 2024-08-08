@@ -1,7 +1,7 @@
 ---
-title: "Developed Tools"
+title: "Publications"
 listing:
-  contents: Devtools
+  contents: Flavour
   sort: "date desc"
   type: default
   categories: true

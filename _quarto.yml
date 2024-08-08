@@ -12,10 +12,14 @@ website:
         text: The Scientist
       - href: DreamTeam.qmd
         text: The Dream Team
-      - href: Publications.qmd
+      - href: PublishedArticles.qmd
         text: Publications
+      - href: Flavour.qmd
+        text: Flavour of the Month
+      - href: OpenScience.qmd
+        text: Open Science
       - href: Devtools.qmd
-        text: Developed Tools & OPEN Science
+        text: Developed Tools
 
 
 format:
