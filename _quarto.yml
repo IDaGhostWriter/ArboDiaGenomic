@@ -22,6 +22,8 @@ website:
         text: Open Science
       - href: Devtools.qmd
         text: Developed Tools
+      - href: Knowshare.qmd
+        text: Knowledge Sharing
 format:
   html:
     theme:
