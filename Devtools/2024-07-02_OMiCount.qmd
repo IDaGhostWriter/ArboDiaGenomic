@@ -5,11 +5,12 @@ date:   2024-07-01 15:22:37 +0000
 
 ![](omc.png)
 
-Launch of OMiCount: Innovating Molecular Diagnostics and Genomic Characterization 
+**Launch of OMiCount:** Innovating Molecular Diagnostics and Genomic Characterization 
 We are thrilled to announce the launch of OMiCount, an innovative bioinformatics tool developed by Idrissa Dieng, a scientist at the Institut Pasteur de Dakar. OMiCount is designed to improve laboratory work, maximize precision and save time. To strengthen its wide use, In collaboration with Mamadou Cisse of the Digitalization and Information System Department (DDSI), the tool will soon be available to the general public via a web portal. 
 The Oligonucleotides Mismatches Counter (OMiCount) is a transformative bioinformatics tool that evaluates the performance of primer sets against a diverse array of virus variants. This innovation significantly enhances molecular diagnostics and genomic characterization, making substantial contributions to virology, public health, and genomic surveillance. OMiCount has also contributed to the discovery of a key element in the diagnosis of the chikungunya virus. The discovery was published online last week [CDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype](https://journals.asm.org/doi/epub/10.1128/jcm.00405-24)
  
-Key Impacts of OMiCount:  
+**Key Impacts of OMiCount:**
+
 1.     Improved Molecular Diagnostics: Primer Validation, Rapid Adaptation, Efficiency and Degenerate Primer Design.  
 2.     Enhanced Genomic Characterization: Comprehensive Analysis, Visual Representation and Optimized Primers 
 3.     Supporting Genomic Surveillance: Real-Time Monitoring, Accurate Detection and Adaptability.  
