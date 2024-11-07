@@ -14,18 +14,32 @@
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nFlavour of the month (August) : Focus on ZIKA virus\n\n\n\n\n\n\n\n\n\n\n\n2 min\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "The Scientist",
+    "objectID": "Teaching/2024-07-02_tutorial.html",
+    "href": "Teaching/2024-07-02_tutorial.html",
+    "title": "Tutorial1",
     "section": "",
-    "text": "Idrissa Dieng is spearheading research into viruses, with a primary focus on arboviruses, particularly delving into molecular evolution and the advancement of diagnostic tools. Since its initial detection in Senegal in 1979, Dengue virus has been a prominent concern. The viral landscape, until 2009, was primarily characterized by the presence of sylvatic DENV-2 strains. However, a significant transition occurred with the onset of the first urban epidemic. Subsequently, annual epidemics have been documented since 2017. Despite this persistent circulation, there has been limited understanding of the genetic diversity of the virus.\nTo bridge this knowledge gap, we have utilized Next Generation Sequencing technologies, including Illumina and Nanopore, to conduct genomic surveillance of circulating viral strains in Senegal. This initiative is integrated into the Senegalese Syndromic Sentinel Surveillance program (4S Network). By doing so, we can effectively monitor the genetic composition of the virus and evaluate its implications for preventive, therapeutic, and diagnostic interventions.\nFurthermore, the insights gained and the advancements made in dengue diagnostics and genomic surveillance have been extended to other West African countries where dengue surveillance programs are deficient, such as Cabo Verde. My whole research is accessible at researchgate\nYou can found lastly published papers here:\nCDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype\nGenomic characterization of a reemerging Chikungunya outbreak in Kedougou, Southeastern Senegal, 2023"
+    "text": "Tutorial on programing basics"
   },
   {
-    "objectID": "DreamTeam/2024-08-07_Diamilatou.html",
-    "href": "DreamTeam/2024-08-07_Diamilatou.html",
-    "title": "Diamilatou Balde",
+    "objectID": "Devtools/2024-07-02_OMiCount.html",
+    "href": "Devtools/2024-07-02_OMiCount.html",
+    "title": "Release of O.Mi.Count a Oligonucleotides Erosion Signature Analysis Framework",
     "section": "",
-    "text": "Diamilatou Balde aka “Mbappe” is an awesome MsC student working on the Molecular Epidemiology and Diagnostic of Arbovirues. She primarily focused on Dengue Chikungunya viruses.\nSkills : Classical Virology, Molecular Biology, Sequencing, ELISA\nPublications :\nMolecular Evolution of Dengue Virus 3 in Senegal between 2009 and 2022: Dispersal Patterns and Implications for Prevention and Therapeutic Countermeasures"
+    "text": "Launch of OMiCount: Innovating Molecular Diagnostics and Genomic Characterization We are thrilled to announce the launch of OMiCount, an innovative bioinformatics tool developed by Idrissa Dieng, a scientist at the Institut Pasteur de Dakar. OMiCount is designed to improve laboratory work, maximize precision and save time. To strengthen its wide use, In collaboration with Mamadou Cisse of the Digitalization and Information System Department (DDSI), the tool will soon be available to the general public via a web portal. The Oligonucleotides Mismatches Counter (OMiCount) is a transformative bioinformatics tool that evaluates the performance of primer sets against a diverse array of virus variants. This innovation significantly enhances molecular diagnostics and genomic characterization, making substantial contributions to virology, public health, and genomic surveillance. OMiCount has also contributed to the discovery of a key element in the diagnosis of the chikungunya virus. The discovery was published online last week CDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype\nKey Impacts of OMiCount:\n\nImproved Molecular Diagnostics: Primer Validation, Rapid Adaptation, Efficiency and Degenerate Primer Design.  \nEnhanced Genomic Characterization: Comprehensive Analysis, Visual Representation and Optimized Primers \nSupporting Genomic Surveillance: Real-Time Monitoring, Accurate Detection and Adaptability.  \nFacilitating Public Health Responses: Timely Identification, Resource Optimization and Enhanced Testing Capabilities. \nGlobal Health Impact: Preparedness and Response, Collaborative Efforts and Innovation in Diagnostics. \n\nIn summary, OMiCount significantly enhances molecular diagnostics and genomic characterization by providing a simple, reliable, efficient, and comprehensive method for oligonucleotide performance evaluation. Its ability to adapt to viral evolution, generate degenerate primers, and offer clear visualizations of primer performance makes it an indispensable tool in the ongoing efforts to combat viral diseases and the mitigation of their impact in public health.\nCheck out my researchgate web page to learn more about my scientifique publications for more info on how to get the most out of my work. Files related to ressources for reproducible research are available at [Idrissa’s GitHub repo][IDaGhostWriter-gh]. If you have questions or collaboration requests send an email."
+  },
+  {
+    "objectID": "DreamTeam/2024-08-06_Mignane.html",
+    "href": "DreamTeam/2024-08-06_Mignane.html",
+    "title": "Mignane Ndiaye",
+    "section": "",
+    "text": "Mignane aka “Halaand” is an amazing PhD student working on the Molecular Epidemiology and Diagnostic of Nairoviruses. He primarily focused on Dugbe Virus, Bandia virus (Understudied viruses) and the deadly widespread Crimee Congo Hemorraghic fever virus.\nSkills : Classical Virology, Molecular Biology, Sequencing, ELISA\nPublications :\n1.CDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype\n2.Molecular Detection and Genetic Characterization of Two Dugbe Orthonairovirus Isolates Detected from Ticks in Southern Senegal"
+  },
+  {
+    "objectID": "DreamTeam/2024-08-08_Aminata.html",
+    "href": "DreamTeam/2024-08-08_Aminata.html",
+    "title": "Aminata Dia",
+    "section": "",
+    "text": "Aminata Dia aka “Pedri” is an BsC student working on the Diagnostic of Arbovirues. She primarily focused on Dengue virus.\nSkills : Molecular Biology, In-silico analysis, Sequencing"
   },
   {
     "objectID": "index.html",
@@ -53,7 +67,7 @@
     "href": "Devtools.html",
     "title": "Developed Tools",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nRelease of O.Mi.Count a Oligonucleotides Erosion Signature Analysis Framework\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\n2 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nDevelopment of A.E.R.S : A tool for experiments Booking at Arbovirology lab\n\n\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nRelease of O.Mi.Count a Oligonucleotides Erosion Signature Analysis Framework\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\n2 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "OpenScience/2024-07-02_DENV-2_Build.html",
@@ -67,21 +81,35 @@
     "href": "DreamTeam.html",
     "title": "Dream Team Members",
     "section": "",
-    "text": "My Young, Awesome and Superstars Scientists.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nDiamilatou Balde\n\n\n\n\n\n\n\n\n\n\n\nAug 7, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nMignane Ndiaye\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "My Young, Awesome and Superstars Scientists.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAminata Dia\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nDiamilatou Balde\n\n\n\n\n\n\n\n\n\n\n\nAug 7, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nMignane Ndiaye\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "DreamTeam/2024-08-06_Mignane.html",
-    "href": "DreamTeam/2024-08-06_Mignane.html",
-    "title": "Mignane Ndiaye",
+    "objectID": "DreamTeam/2024-08-07_Diamilatou.html",
+    "href": "DreamTeam/2024-08-07_Diamilatou.html",
+    "title": "Diamilatou Balde",
     "section": "",
-    "text": "Mignane aka “Halaand” is an amazing PhD student working on the Molecular Epidemiology and Diagnostic of , tiredless Nairoviruses. He primarily focused on Dugbe Virus, Bandia virus (Understudied viruses) and the deadly widespread Crimee Congo Hemorraghic fever virus.\nSkills : Classical Virology, Molecular Biology, Sequencing, ELISA\nPublications :\nCDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype\nMolecular Detection and Genetic Characterization of Two Dugbe Orthonairovirus Isolates Detected from Ticks in Southern Senegal"
+    "text": "Diamilatou Balde aka “Mbappe” is an awesome MsC student working on the Molecular Epidemiology and Diagnostic of Arbovirues. She primarily focused on Dengue and Chikungunya viruses.\nSkills : Classical Virology, Molecular Biology, Sequencing\nPublications :\n1.Molecular Evolution of Dengue Virus 3 in Senegal between 2009 and 2022: Dispersal Patterns and Implications for Prevention and Therapeutic Countermeasures"
   },
   {
-    "objectID": "Devtools/2024-07-02_OMiCount.html",
-    "href": "Devtools/2024-07-02_OMiCount.html",
-    "title": "Release of O.Mi.Count a Oligonucleotides Erosion Signature Analysis Framework",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "The Scientist",
     "section": "",
-    "text": "Launch of OMiCount: Innovating Molecular Diagnostics and Genomic Characterization We are thrilled to announce the launch of OMiCount, an innovative bioinformatics tool developed by Idrissa Dieng, a scientist at the Institut Pasteur de Dakar. OMiCount is designed to improve laboratory work, maximize precision and save time. To strengthen its wide use, In collaboration with Mamadou Cisse of the Digitalization and Information System Department (DDSI), the tool will soon be available to the general public via a web portal. The Oligonucleotides Mismatches Counter (OMiCount) is a transformative bioinformatics tool that evaluates the performance of primer sets against a diverse array of virus variants. This innovation significantly enhances molecular diagnostics and genomic characterization, making substantial contributions to virology, public health, and genomic surveillance. OMiCount has also contributed to the discovery of a key element in the diagnosis of the chikungunya virus. The discovery was published online last week CDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype\nKey Impacts of OMiCount:\n1. Improved Molecular Diagnostics: Primer Validation, Rapid Adaptation, Efficiency and Degenerate Primer Design.\n2. Enhanced Genomic Characterization: Comprehensive Analysis, Visual Representation and Optimized Primers 3. Supporting Genomic Surveillance: Real-Time Monitoring, Accurate Detection and Adaptability.\n4. Facilitating Public Health Responses: Timely Identification, Resource Optimization and Enhanced Testing Capabilities. 5. Global Health Impact: Preparedness and Response, Collaborative Efforts and Innovation in Diagnostics.\nIn summary, OMiCount significantly enhances molecular diagnostics and genomic characterization by providing a simple, reliable, efficient, and comprehensive method for oligonucleotide performance evaluation. Its ability to adapt to viral evolution, generate degenerate primers, and offer clear visualizations of primer performance makes it an indispensable tool in the ongoing efforts to combat viral diseases and the mitigation of their impact in public health.\nCheck out my researchgate web page to learn more about my scientifique publications for more info on how to get the most out of my work. Files related to ressources for reproducible research are available at [Idrissa’s GitHub repo][IDaGhostWriter-gh]. If you have questions or collaboration requests send an email."
+    "text": "Idrissa Dieng is spearheading research into viruses, with a primary focus on arboviruses, particularly delving into molecular evolution and the advancement of diagnostic tools. Since its initial detection in Senegal in 1979, Dengue virus has been a prominent concern. The viral landscape, until 2009, was primarily characterized by the presence of sylvatic DENV-2 strains. However, a significant transition occurred with the onset of the first urban epidemic. Subsequently, annual epidemics have been documented since 2017. Despite this persistent circulation, there has been limited understanding of the genetic diversity of the virus.\nTo bridge this knowledge gap, we have utilized Next Generation Sequencing technologies, including Illumina and Nanopore, to conduct genomic surveillance of circulating viral strains in Senegal. This initiative is integrated into the Senegalese Syndromic Sentinel Surveillance program (4S Network). By doing so, we can effectively monitor the genetic composition of the virus and evaluate its implications for preventive, therapeutic, and diagnostic interventions.\nFurthermore, the insights gained and the advancements made in dengue diagnostics and genomic surveillance have been extended to other West African countries where dengue surveillance programs are deficient, such as Cabo Verde. My whole research is accessible at researchgate\nYou can found lastly published papers here:\nCDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype\nGenomic characterization of a reemerging Chikungunya outbreak in Kedougou, Southeastern Senegal, 2023"
+  },
+  {
+    "objectID": "Devtools/2024-08-09_AERS.html",
+    "href": "Devtools/2024-08-09_AERS.html",
+    "title": "Development of A.E.R.S : A tool for experiments Booking at Arbovirology lab",
+    "section": "",
+    "text": "A.E.R.S: An Experiments Booking System\nThis tools aims to help to organize Experiments Booking at the Viroloy Department of I.P.D. AERS Link"
+  },
+  {
+    "objectID": "Knowshare.html",
+    "href": "Knowshare.html",
+    "title": "Knowledge Sharing",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTutorial1\n\n\n\n\n\n\n\n\n\n\n\nJul 16, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Flavour/2024-08-08-flavour.html",
