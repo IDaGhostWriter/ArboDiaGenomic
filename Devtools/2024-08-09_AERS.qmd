@@ -1,0 +1,25 @@
+---
+title: "Development of A.E.R.S : A tool for experiments Booking at Arbovirology lab"
+date:   2024-08-09 15:22:37 +0000
+---
+
+![](ghostwriter.png)
+
+**A.E.R.S:** An Experiments Booking System
+
+This tools aims to help to organize Experiments Booking at the Viroloy Department of I.P.D.
+ [AERS Link](https://daghostwriter.shinyapps.io/AERS/)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
