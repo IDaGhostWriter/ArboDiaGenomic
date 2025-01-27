@@ -7,16 +7,9 @@
     ]
   },
   {
-    "listing": "/Flavour.html",
+    "listing": "/Knowshare.html",
     "items": [
-      "/Flavour/2024-08-08-flavour.html"
-    ]
-  },
-  {
-    "listing": "/Devtools.html",
-    "items": [
-      "/Devtools/2024-08-09_AERS.html",
-      "/Devtools/2024-07-02_OMiCount.html"
+      "/Teaching/2024-07-02_tutorial.html"
     ]
   },
   {
@@ -28,9 +21,24 @@
     ]
   },
   {
-    "listing": "/Knowshare.html",
+    "listing": "/La Masia.html",
     "items": [
-      "/Teaching/2024-07-02_tutorial.html"
+      "/LaMasia/2025-01-01_Lika.html",
+      "/LaMasia/2025-01-01_Omar Sy.html",
+      "/LaMasia/2025-01-01_Leon Bruno Sarr.html"
+    ]
+  },
+  {
+    "listing": "/Devtools.html",
+    "items": [
+      "/Devtools/2024-08-09_AERS.html",
+      "/Devtools/2024-07-02_OMiCount.html"
+    ]
+  },
+  {
+    "listing": "/Flavour.html",
+    "items": [
+      "/Flavour/2024-08-08-flavour.html"
     ]
   }
 ]
