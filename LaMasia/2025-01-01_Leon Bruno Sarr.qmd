@@ -6,7 +6,7 @@ date:   2025-01-01 15:22:37 +0000
 
 ![](Leon_Pic.jpg)
 
-Omar aka *Bernal* is a BsC student working on a project related to DENV diagnostic. The project presents an analysis of molecular detection 
+Leon aka *Bernal* is a BsC student working on a project related to DENV diagnostic. The project presents an analysis of molecular detection 
 and Senegalese treatment of dengue virus strains, focusing on the failure to detect sylvatic strains of the virus. In silico analyses detected 
 high-significance mutations at the dengue virus binding sites. This document shows an analysis of the molecular detection and Senegalese treatment 
 of dengue virus strains, focusing on the failure to detect sylvatic strains of the virus. So-called in silico analyses detected high-significance 
