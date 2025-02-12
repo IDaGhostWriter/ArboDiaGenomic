@@ -1,1 +1,1 @@
-Sitemap: https://IDaGhostWriter.github.io/Quarto_publish/sitemap.xml
+Sitemap: https://IDaGhostWriter.github.io/ArboDiaGenomic/sitemap.xml
