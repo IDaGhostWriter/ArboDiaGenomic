@@ -26,6 +26,8 @@ website:
         text: Developed Tools
       - href: Knowshare.qmd
         text: Knowledge Sharing
+      - href: Scientific.qmd
+        text: Scientific Communications
 format:
   html:
     theme:
