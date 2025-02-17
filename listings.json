@@ -13,10 +13,12 @@
     ]
   },
   {
-    "listing": "/Devtools.html",
+    "listing": "/DreamTeam.html",
     "items": [
-      "/Devtools/2024-08-09_AERS.html",
-      "/Devtools/2024-07-02_OMiCount.html"
+      "/DreamTeam/2024-08-08_Aminata.html",
+      "/DreamTeam/2024-08-07_Diamilatou.html",
+      "/DreamTeam/2024-08-06_Mignane.html",
+      "/DreamTeam/2024-08-06_Shella.html"
     ]
   },
   {
@@ -28,12 +30,16 @@
     ]
   },
   {
-    "listing": "/DreamTeam.html",
+    "listing": "/Scientific.html",
     "items": [
-      "/DreamTeam/2024-08-08_Aminata.html",
-      "/DreamTeam/2024-08-07_Diamilatou.html",
-      "/DreamTeam/2024-08-06_Mignane.html",
-      "/DreamTeam/2024-08-06_Shella.html"
+      "/Scientific_Communications/Poster_CHIK.html"
+    ]
+  },
+  {
+    "listing": "/Devtools.html",
+    "items": [
+      "/Devtools/2024-08-09_AERS.html",
+      "/Devtools/2024-07-02_OMiCount.html"
     ]
   },
   {
