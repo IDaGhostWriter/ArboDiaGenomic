@@ -1,0 +1,9 @@
+---
+title: "Chikungunya PanGenotype Recovery"
+format: html
+date:   2024-08-06 15:22:37 +0000
+---
+
+![](../OpenScience/CHIKV_img.jpg)
+
+[Poster CHIKV PanGenotype Recovery](../Scientific_Communications/BSC_Lika_Poster_18012025.pdf)

@@ -1,15 +1,35 @@
 [
   {
-    "listing": "/OpenScience.html",
+    "listing": "/Flavour.html",
     "items": [
-      "/OpenScience/2024-07-20_CHIKV_Build.html",
-      "/OpenScience/2024-07-02_DENV-2_Build.html"
+      "/Flavour/2024-08-08-flavour.html"
     ]
   },
   {
-    "listing": "/Knowshare.html",
+    "listing": "/Devtools.html",
     "items": [
-      "/Teaching/2024-07-02_tutorial.html"
+      "/Devtools/2024-08-09_AERS.html",
+      "/Devtools/2024-07-02_OMiCount.html"
+    ]
+  },
+  {
+    "listing": "/Scientific.html",
+    "items": [
+      "/Scientific/Poster_CHIK.html"
+    ]
+  },
+  {
+    "listing": "/Scientific_Communications.html",
+    "items": [
+      "/Scientific_Communications/Poster_CHIK.html"
+    ]
+  },
+  {
+    "listing": "/La Masia.html",
+    "items": [
+      "/LaMasia/2025-01-01_Lika.html",
+      "/LaMasia/2025-01-01_Omar Sy.html",
+      "/LaMasia/2025-01-01_Leon Bruno Sarr.html"
     ]
   },
   {
@@ -22,30 +42,16 @@
     ]
   },
   {
-    "listing": "/La Masia.html",
+    "listing": "/Knowshare.html",
     "items": [
-      "/LaMasia/2025-01-01_Lika.html",
-      "/LaMasia/2025-01-01_Omar Sy.html",
-      "/LaMasia/2025-01-01_Leon Bruno Sarr.html"
+      "/Teaching/2024-07-02_tutorial.html"
     ]
   },
   {
-    "listing": "/Scientific.html",
+    "listing": "/OpenScience.html",
     "items": [
-      "/Scientific_Communications/Poster_CHIK.html"
-    ]
-  },
-  {
-    "listing": "/Devtools.html",
-    "items": [
-      "/Devtools/2024-08-09_AERS.html",
-      "/Devtools/2024-07-02_OMiCount.html"
-    ]
-  },
-  {
-    "listing": "/Flavour.html",
-    "items": [
-      "/Flavour/2024-08-08-flavour.html"
+      "/OpenScience/2024-07-20_CHIKV_Build.html",
+      "/OpenScience/2024-07-02_DENV-2_Build.html"
     ]
   }
 ]
