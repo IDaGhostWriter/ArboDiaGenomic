@@ -20,4 +20,4 @@ page-layout: full
 title-block-banner: true
 comments: false
 ---
-Scientist Seeds.
+Near future Scientist Seeds

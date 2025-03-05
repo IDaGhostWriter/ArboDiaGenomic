@@ -1,0 +1,26 @@
+---
+title: "Origin and Spread of the Dengue Virus Type 1, Genotype V in Senegal, 2015–2019"
+format: html
+date:   2024-08-06 15:22:37 +0000
+---
+
+
+
+
+
+**Abstract:** Dengue virus (DENV) is the most widespread arthropod-borne virus, with the number
+and severity of outbreaks increasing worldwide in recent decades. Dengue is caused by genetically
+distinct serotypes, DENV-1–4. Here, we present data on DENV-1, isolated from patients with dengue
+fever during an outbreak in Senegal and Mali (Western Africa) in 2015–2019, that were analyzed by
+sequencing the envelope (E) gene. The emergence and the dynamics of DENV-1 in Western Africa
+were inferred by using maximum likelihood and Bayesian methods. The DENV-1 grouped into a
+monophyletic cluster that was closely related to those from Southeast Asia. The virus appears to
+have been introduced directly into Medina Gounass (Suburb of Dakar), Senegal (location probability
+= 0.301, posterior = 0.76). The introduction of the virus in Senegal occurred around 2014 (95% HPD
+= 2012.88–2014.84), and subsequently, the virus moved to regions within Senegal (e.g., Louga and
+Fatick), causing intense outbreaks in the subsequent years. The virus appears to have been introduced
+in Mali (a neighboring country) after its introduction in Senegal. In conclusion, we present evidence
+that the outbreak caused by DENV-1 in urban environments in Senegal and Mali after 2015 was
+caused by a single viral introduction from Asia
+
+**Click to here to read the full article:** [Phylodynamic DENV-1 Senegal](1_SpreadDENV1_Viruses.pdf)

@@ -2,6 +2,7 @@
   {
     "listing": "/Flavour.html",
     "items": [
+      "/Flavour/2025-03-01-flavour.html",
       "/Flavour/2024-08-08-flavour.html"
     ]
   },
@@ -15,7 +16,9 @@
   {
     "listing": "/Scientific.html",
     "items": [
-      "/Scientific/Poster_CHIK.html"
+      "/Scientific/Aminatapaper.html",
+      "/Scientific/Poster_CHIK.html",
+      "/Scientific/First Paper.html"
     ]
   },
   {

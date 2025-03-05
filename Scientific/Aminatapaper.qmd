@@ -1,0 +1,25 @@
+---
+title: "Development and validation of oligonucleotide sets for sequencing, real time detection and differentiation of re-emerged sylvatic Dengue virus 2 strains"
+format: html
+date:   2025-03-01 15:43:37 +0000
+---
+
+
+
+
+
+**Abstract:** Dengue virus (DENV) is one of the most prevalent arboviral threats worldwide. The virus is associated with 
+a high health and economic burden mainly in tropical and subtropical regions. Available molecular tools however fail to 
+correctly serotype and sequence sylvatic DENV-2 (DENV-2/GVI) which in known to circulate in forests in West Africa and 
+Malaysia. The recent emergence of human case linked to this virus variant in Southern Senegal raises concerns about the 
+correct detection and characterization of the virus for public health purposes. Here we develop and validate new sets of 
+oligonucleotides to detect, discriminate and sequence DENV-2/GVI. Validations were carried out using epidemic DENV and 
+sylvatic DENV-2 strains from the biobank of the WHO collaborating Center for Arboviruses and Haemorrhagic fevers. 
+The presented approaches showed good performance to specifically detect sylvatic DENV-2 in both singleplex and multiplex PCR 
+with other DENV serotypes respectively with a limit of detection of 68.85 and 133.21 RNA copies/reaction at 0.95 probability
+ in a probit analysis. Additionally, developed tilling PCR primers yield a better genome coverage ranging from 93.9 to 95.1 % 
+ for all processed DENV-2/GVI strains both on Illumina and Nanopore platforms and outperform previous schemes to efficiently 
+ amplified DENV-2/GVI strains. In summary the developed oligonucleotides will contribute to improving DENV surveillance and 
+ genomic epidemiology in endemic areas.
+
+**Click to here to read the full article:** [Detection, Differentiation and Sequencing DENV-2/GVI](Study_Oligos_Sylvatic.pdf)

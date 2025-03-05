@@ -147,8 +147,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section"><img src="Shella.jpg" class="img-fluid"></a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -178,11 +184,13 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="Shella.jpg" class="img-fluid"></p>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section"><img src="Shella.jpg" class="img-fluid"></h3>
 <p>Agathe Shella Efire <strong>“Auba”</strong> Master’s student, working on the molecular diagnosis of arboviruses and managing a syndromic surveillance project in Senegal (4S), aimed at improving patient care in hospitals, while targeting a range of pathogens in order to develop molecular and serological diagnostic tests.</p>
 <p>Skills : Classical Virology, Molecular Biology, Sequencing, ELISA</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -421,7 +429,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/idaghostwriter\.quarto\.pub\/arbodiagen");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

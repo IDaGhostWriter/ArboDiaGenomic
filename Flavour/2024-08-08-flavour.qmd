@@ -1,5 +1,6 @@
 ---
-title: "Flavour of the month (August) : Focus on ZIKA virus"
+title: "Flavour of the month (August 2024) : Focus on ZIKA virus"
+date:   2024-08-01 15:43:37 +0000
 ---
 
 **Abstract:**
