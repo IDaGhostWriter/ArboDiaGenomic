@@ -1,7 +1,7 @@
 ---
-title: "Scientific_Communications"
+title: "Scientific Talk"
 listing:
-  contents: Scientific_Communications
+  contents: Scientific Talk
   sort: "date desc"
   type: default
   categories: true

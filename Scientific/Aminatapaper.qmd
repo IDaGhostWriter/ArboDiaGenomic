@@ -23,3 +23,5 @@ with other DENV serotypes respectively with a limit of detection of 68.85 and 13
  genomic epidemiology in endemic areas.
 
 **Click to here to read the full article:** [Detection, Differentiation and Sequencing DENV-2/GVI](Study_Oligos_Sylvatic.pdf)
+
+{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
