@@ -4,7 +4,6 @@ date:   2025-01-01 15:22:37 +0000
 ---
 
 
-![](Omar_Pic.jpg)
 
 Omar aka *Pau Cubarsi* is a BsC student working on a project related to CHIKV diagnostic. The aim of this project is to develop a multiplex RT-qPCR system to detect and differentiate the three main genotypes of Chikungunya virus (Africa, ECSA, Asia).
 Specific primers and probes were designed on the basis of E1 gene sequence analysis, with validation to avoid cross-reactivity with other alphaviruses.

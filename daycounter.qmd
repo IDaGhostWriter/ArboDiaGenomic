@@ -1,0 +1,101 @@
+---
+title: "Countdown Timer"
+format: html
+editor: visual
+---
+
+```{html}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countdown Timer</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #111;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        .countdown {
+            display: flex;
+            gap: 20px;
+            text-align: center;
+        }
+        .countdown div {
+            background: #222;
+            padding: 20px;
+            border-radius: 10px;
+            font-size: 40px;
+            font-weight: bold;
+            min-width: 100px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+        }
+        .label {
+            font-size: 14px;
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="countdown">
+        <div>
+            <span id="days">00</span>
+            <div class="label">DAYS</div>
+        </div>
+        <div>
+            <span id="hours">00</span>
+            <div class="label">HOURS</div>
+        </div>
+        <div>
+            <span id="minutes">00</span>
+            <div class="label">MINUTES</div>
+        </div>
+        <div>
+            <span id="seconds">00</span>
+            <div class="label">SECONDS</div>
+        </div>
+    </div>
+
+    <script>
+        function startCountdown(targetDate) {
+            function updateCountdown() {
+                const now = new Date().getTime();
+                const timeLeft = targetDate - now;
+
+                if (timeLeft <= 0) {
+                    document.getElementById("days").innerText = "00";
+                    document.getElementById("hours").innerText = "00";
+                    document.getElementById("minutes").innerText = "00";
+                    document.getElementById("seconds").innerText = "00";
+                    return;
+                }
+
+                const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+                const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+                const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+
+                document.getElementById("days").innerText = String(days).padStart(2, '0');
+                document.getElementById("hours").innerText = String(hours).padStart(2, '0');
+                document.getElementById("minutes").innerText = String(minutes).padStart(2, '0');
+                document.getElementById("seconds").innerText = String(seconds).padStart(2, '0');
+            }
+
+            setInterval(updateCountdown, 1000);
+            updateCountdown();
+        }
+
+        // Set target date (5 days from now)
+        const targetDate = new Date();
+        targetDate.setDate(targetDate.getDate() + 5);
+        startCountdown(targetDate.getTime());
+    </script>
+
+</body>
+</html>

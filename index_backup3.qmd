@@ -9,9 +9,13 @@ website:
       - about.qmd
 ---
 
+<!-- Centering the text in the middle :  Everything Will Happen At Dedicated Time !!! -->
+
 ### ![](files/phd-new.png)
 
-<div style="text-align: center; font-weight: bold; color: rgb(167, 45, 126); font-size: 1.5em;">Everything Will Happen At Dedicated Time !!!</div>
+<div style="text-align: center; font-weight: bold; font-size: 1.5em;">
+    Everything Will Happen At Dedicated Time !!!
+</div>
 
 <div id="countdown-great-day" style="font-size: 2.5em; font-weight: bold; color: rgb(79, 81, 217); text-align: center;"></div>
 
@@ -25,7 +29,7 @@ function updateCountdown() {
     const timeDifference = targetDate - now;
 
     if (timeDifference <= 0) {
-        document.getElementById('countdown-great-day').innerText = " Finally Dr Idrissa DIENG !!! What's next ??? ";
+        document.getElementById('countdown-great-day').innerText = "Finally Dr Idrissa DIENG !!! What's next ";
         return;
     }
 

@@ -9,23 +9,24 @@ website:
       - about.qmd
 ---
 
+<!-- Old version of the index without center the text : **Everything Will Happen At Dedicated Time !!!**  -->
 ### ![](files/phd-new.png)
 
-<div style="text-align: center; font-weight: bold; color: rgb(167, 45, 126); font-size: 1.5em;">Everything Will Happen At Dedicated Time !!!</div>
+**Everything Will Happen At Dedicated Time !!!**
 
-<div id="countdown-great-day" style="font-size: 2.5em; font-weight: bold; color: rgb(79, 81, 217); text-align: center;"></div>
+<div id="Countdown Great Day" style="font-size: 2.5em; font-weight: bold; color:rgb(79, 81, 217);"></div>
 
 <script>
-// Set the target date and time
-const targetDate = new Date('2025-03-31T23:46:59').getTime();
+// Set the target date and time (YYYY-MM-DD HH:MM:SS format)
+const targetDate = new Date('2025-03-31T23:46:59');
 
 // Function to update the countdown timer
 function updateCountdown() {
-    const now = new Date().getTime();
-    const timeDifference = targetDate - now;
+    const currentDate = new Date();
+    const timeDifference = targetDate - currentDate;
 
     if (timeDifference <= 0) {
-        document.getElementById('countdown-great-day').innerText = " Finally Dr Idrissa DIENG !!! What's next ??? ";
+        document.getElementById('Countdown Great Day').innerText = "Finally Dr Idrissa DIENG !!! What's next ";
         return;
     }
 
@@ -34,13 +35,12 @@ function updateCountdown() {
     const minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
     const seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
 
-    document.getElementById('countdown-great-day').innerText = 
+    document.getElementById('Countdown Great Day').innerText = 
         `${days} Day(s), ${hours} Hour(s), ${minutes} Minute(s), ${seconds} Second(s) remaining`;
 
     setTimeout(updateCountdown, 1000);
 }
 
-// Start the countdown
 updateCountdown();
 </script>
 

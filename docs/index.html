@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>ArboDiaGen (A.R.C Initiative) – ArboDiaGen</title>
+<title>The Great Day – ArboDiaGen</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -34,6 +34,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -73,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -149,54 +150,83 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section"><img src="files/phd-new.png" class="img-fluid"></a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="files/avatar.jpg" class="about-image
-  rounded " style="width: 20em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">ArboDiaGen (A.R.C Initiative)</h1>
+<h1 class="title">The Great Day</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://x.com/IdrissaDieng18" class="about-link" rel="" target="">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter</span>
-  </a>
-  <a href="https://github.com/IDaGhostWriter/" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://mastodon.social/@idaghostwriter" class="about-link" rel="" target="">
-    <i class="bi bi-mastodon"></i>
-     <span class="about-link-text">Mastodon</span>
-  </a>
-  <a href="https://www.linkedin.com/in/idrissa-dieng-3b7415125/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=0nGmC6cAAAAJ&amp;hl=fr" class="about-link" rel="" target="">
-    <i class="bi bi-google-scholar"></i>
-     <span class="about-link-text">Google Scholar</span>
-  </a>
-  <a href="https://orcid.org/0000-0002-8584-5592" class="about-link" rel="" target="">
-    <i class="bi bi-orcid"></i>
-     <span class="about-link-text">ORCID</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Our Goals : Tracking RNA viruses mainly Dengue and related Arboviruses, Understand how they Spread &amp; Evolve, Evaluate available Diagnostic Tools, Detect Diagnostic Erosion and Design Updated tools.</p>
-<p><a href="https://www.researchgate.net/profile/Idrissa-Dieng-2">Researchgate</a></p>
 
 
-</main></div>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section"><img src="files/phd-new.png" class="img-fluid"></h3>
+<div style="text-align: center; font-weight: bold; color: rgb(167, 45, 126); font-size: 1.5em;">
+Everything Will Happen At Dedicated Time !!!
 </div>
- <!-- /main -->
+<div id="countdown-great-day" style="font-size: 2.5em; font-weight: bold; color: rgb(79, 81, 217); text-align: center;">
+
+</div>
+<script>
+// Set the target date and time
+const targetDate = new Date('2025-03-31T23:46:59').getTime();
+
+// Function to update the countdown timer
+function updateCountdown() {
+    const now = new Date().getTime();
+    const timeDifference = targetDate - now;
+
+    if (timeDifference <= 0) {
+        document.getElementById('countdown-great-day').innerText = " Finally Dr Idrissa DIENG !!! What's next ??? ";
+        return;
+    }
+
+    const days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
+
+    document.getElementById('countdown-great-day').innerText = 
+        `${days} Day(s), ${hours} Hour(s), ${minutes} Minute(s), ${seconds} Second(s) remaining`;
+
+    setTimeout(updateCountdown, 1000);
+}
+
+// Start the countdown
+updateCountdown();
+</script>
+<!-- ```{html}
+<audio controls>
+  <source src="Pep_Motivation.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio> -->
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -361,6 +391,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
