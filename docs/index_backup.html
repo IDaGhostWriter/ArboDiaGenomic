@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -149,7 +149,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+  <ul>
+  <li><a href="#épisode-avec-dr.-idrissa-dieng-field-simulation-of-outbreak-response" id="toc-épisode-avec-dr.-idrissa-dieng-field-simulation-of-outbreak-response" class="nav-link active" data-scroll-target="#épisode-avec-dr.-idrissa-dieng-field-simulation-of-outbreak-response">🎧 Épisode avec Dr.&nbsp;Idrissa Dieng : Field Simulation of Outbreak Response</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <div class="quarto-about-trestles">
   <div class="about-entity">
@@ -190,10 +197,27 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
+
 <p>Our Goals : Tracking RNA viruses mainly Dengue and related Arboviruses, Understand how they Spread &amp; Evolve, Evaluate available Diagnostic Tools, Detect Diagnostic Erosion and Design Updated tools.</p>
 <p><a href="https://www.researchgate.net/profile/Idrissa-Dieng-2">Researchgate</a></p>
+<p>##### Backup Post communicztion</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 5%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>tle: “Podcast CARE” rmat: html lters: [] # ← très important pour désactiver le filtre buggy</td>
+</tr>
+</tbody>
+</table>
+<section id="épisode-avec-dr.-idrissa-dieng-field-simulation-of-outbreak-response" class="level2">
+<h2 data-anchor-id="épisode-avec-dr.-idrissa-dieng-field-simulation-of-outbreak-response">🎧 Épisode avec Dr.&nbsp;Idrissa Dieng : Field Simulation of Outbreak Response</h2>
+<iframe src="https://creators.spotify.com/pod/show/care-ipd/embed/episodes/Le-Dr--Idrissa-Dieng-Raconte-le-Dploiement-du-Lab-Mobile-Praesens-CARE-e31rlg4/a-abt9c4n" height="400px" width="1200px" frameborder="0" scrolling="no">
+</iframe>
 
 
+</section>
 </main></div>
 </div>
  <!-- /main -->
@@ -426,7 +450,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/idaghostwriter\.quarto\.pub\/arbodiagen");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

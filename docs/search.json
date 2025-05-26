@@ -18,14 +18,14 @@
     "href": "LaMasia/2025-01-01_Leon Bruno Sarr.html",
     "title": "Leon Sarr",
     "section": "",
-    "text": "Leon aka Bernal is a BsC student working on a project related to DENV diagnostic. The project presents an analysis of molecular detection and Senegalese treatment of dengue virus strains, focusing on the failure to detect sylvatic strains of the virus. In silico analyses detected high-significance mutations at the dengue virus binding sites. This document shows an analysis of the molecular detection and Senegalese treatment of dengue virus strains, focusing on the failure to detect sylvatic strains of the virus. So-called in silico analyses detected high-significance mutations at the primer binding sites of pseudo-aggregate kits, which is harmful. These obstructions were circumvented by a simple diagnostic algorithm developed to overcome these limitations. The results illustrate the importance of integrating local genomic data to improve epidemiological surveillance tools and enable early detection of emerging variants. This study highlights the need for perfect interweaving of epidemic management diagnostic strategies and virus outbreaks.primers of pseudo-aggressive kits, which is harmful. These obstructions were bypassed by a simple diagnostic algorithm developed to circumvent these limitations."
+    "text": "Leon aka Bernal is a BsC student working on a project related to DENV diagnostic. The project presents an analysis of molecular detection of dengue virus strains, focusing on the failure to detect sylvatic strains of the virus. In silico analyses detected high-significance mutations at the dengue virus binding sites. This document shows an analysis of the molecular detection and Senegalese treatment of dengue virus strains, focusing on the failure to detect sylvatic strains of the virus. So-called in silico analyses detected high-significance mutations at the primer binding sites of pseudo-aggregate kits, which is harmful. These obstructions were circumvented by a simple diagnostic algorithm developed to overcome these limitations. The results illustrate the importance of integrating local genomic data to improve epidemiological surveillance tools and enable early detection of emerging variants. This study highlights the need for perfect interweaving of epidemic management diagnostic strategies and virus outbreaks.primers of pseudo-aggressive kits, which is harmful. These obstructions were bypassed by a simple diagnostic algorithm developed to circumvent these limitations."
   },
   {
     "objectID": "LaMasia/2025-01-01_Lika.html",
     "href": "LaMasia/2025-01-01_Lika.html",
     "title": "Lika Diouf",
     "section": "",
-    "text": "Lika aka Cassado is a BsC student working on a project related to CHIKV diagnostic. Following the noticed lack of performance of CDC trioplex to detect West African genotype the project aim to design updated tool."
+    "text": "Lika aka Yamal is a BsC student working on a project related to CHIKV diagnostic. Chikungunya virus (CHIKV), an arbovirus belonging to the Togaviridae family and the Alphavirus genus, causes large-scale epidemics in tropical and subtropical regions and is therefore becoming a major global health concern. It shares its transmission vectors with other arboviruses such as dengue and Zika and symptoms overlap among the three viruses in regions where they co-circulate. Accurate diagnostic tools are therefore crucial. Following the noticed lack of performance of CDC trioplex assay (a widely used free of charge molecular assay) to detect West African genotype the project aim to design updated tool. The concerns the Update of the Trioplex system, a test based on the RT-qPCR technique which uses specific primers for each virus (chikungunya, dengue, zika) in order to detect their viral RNA, for the molecular detection of genotypes of the Chikungunya virus. This is achieved by the creation of new primers matching the genotypes of CHIKV circulating in Senegal as well as a comparative study of this system with the internal system of the IPD as well as the Trioplex system."
   },
   {
     "objectID": "Flavour/2025-03-01-flavour.html",
@@ -70,109 +70,18 @@
     "text": "Everything Will Happen At Dedicated Time !!!"
   },
   {
-    "objectID": "Devtools/2024-07-02_OMiCount.html",
-    "href": "Devtools/2024-07-02_OMiCount.html",
-    "title": "Release of O.Mi.Count a Oligonucleotides Erosion Signature Analysis Framework",
+    "objectID": "Devtools/2025-05-23_iMSA.html",
+    "href": "Devtools/2025-05-23_iMSA.html",
+    "title": "Development of iMSA : A tool for Oligo erosion MSA plotting",
     "section": "",
-    "text": "Launch of OMiCount: Innovating Molecular Diagnostics and Genomic Characterization We are thrilled to announce the launch of OMiCount, an innovative bioinformatics tool developed by Idrissa Dieng, a scientist at the Institut Pasteur de Dakar. OMiCount is designed to improve laboratory work, maximize precision and save time. To strengthen its wide use, In collaboration with Mamadou Cisse of the Digitalization and Information System Department (DDSI), the tool will soon be available to the general public via a web portal. The Oligonucleotides Mismatches Counter (OMiCount) is a transformative bioinformatics tool that evaluates the performance of primer sets against a diverse array of virus variants. This innovation significantly enhances molecular diagnostics and genomic characterization, making substantial contributions to virology, public health, and genomic surveillance. OMiCount has also contributed to the discovery of a key element in the diagnosis of the chikungunya virus. The discovery was published online last week CDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype\nKey Impacts of OMiCount:\n\nImproved Molecular Diagnostics: Primer Validation, Rapid Adaptation, Efficiency and Degenerate Primer Design.  \nEnhanced Genomic Characterization: Comprehensive Analysis, Visual Representation and Optimized Primers \nSupporting Genomic Surveillance: Real-Time Monitoring, Accurate Detection and Adaptability.  \nFacilitating Public Health Responses: Timely Identification, Resource Optimization and Enhanced Testing Capabilities. \nGlobal Health Impact: Preparedness and Response, Collaborative Efforts and Innovation in Diagnostics. \n\nIn summary, OMiCount significantly enhances molecular diagnostics and genomic characterization by providing a simple, reliable, efficient, and comprehensive method for oligonucleotide performance evaluation. Its ability to adapt to viral evolution, generate degenerate primers, and offer clear visualizations of primer performance makes it an indispensable tool in the ongoing efforts to combat viral diseases and the mitigation of their impact in public health.\nCheck out my researchgate web page to learn more about my scientifique publications for more info on how to get the most out of my work. Files related to ressources for reproducible research are available at [Idrissa’s GitHub repo][IDaGhostWriter-gh]. If you have questions or collaboration requests send an email."
+    "text": "iMSA: Interactive Multiple Sequence Alignement Plotting for Assay Erosion Analysis\nThis tools is 3rd Module as part of the ACACIA project. iMSA Link"
   },
   {
-    "objectID": "DreamTeam/2024-08-06_Shella.html",
-    "href": "DreamTeam/2024-08-06_Shella.html",
-    "title": "Agathe Shella Efire",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "The Scientist",
     "section": "",
-    "text": "Agathe Shella Efire “Auba” Master’s student, working on the molecular diagnosis of arboviruses and managing a syndromic surveillance project in Senegal (4S), aimed at improving patient care in hospitals, while targeting a range of pathogens in order to develop molecular and serological diagnostic tests.\nSkills : Classical Virology, Molecular Biology, Sequencing, ELISA"
-  },
-  {
-    "objectID": "DreamTeam/2024-08-07_Diamilatou.html",
-    "href": "DreamTeam/2024-08-07_Diamilatou.html",
-    "title": "Diamilatou Balde",
-    "section": "",
-    "text": "Diamilatou Balde aka “Mbappe” is an awesome MsC student working on the Molecular Epidemiology and Diagnostic of Arbovirues. She primarily focused on Dengue and Chikungunya viruses.\nSkills : Classical Virology, Molecular Biology, Sequencing\nPublications :\n1.Molecular Evolution of Dengue Virus 3 in Senegal between 2009 and 2022: Dispersal Patterns and Implications for Prevention and Therapeutic Countermeasures"
-  },
-  {
-    "objectID": "DreamTeam.html",
-    "href": "DreamTeam.html",
-    "title": "Dream Team Members",
-    "section": "",
-    "text": "My Young, Awesome and Superstars Scientists.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAminata Dia\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nDiamilatou Balde\n\n\n\n\n\n\n\n\n\n\n\nAug 7, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nMignane Ndiaye\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nAgathe Shella Efire\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "Scientific Talk/Scientific_Talk_1.html",
-    "href": "Scientific Talk/Scientific_Talk_1.html",
-    "title": "Scientific Talk 1 : IPD Centenary",
-    "section": "",
-    "text": "IPD Centenary:"
-  },
-  {
-    "objectID": "index_backup.html",
-    "href": "index_backup.html",
-    "title": "ArboDiaGen (A.R.C Initiative)",
-    "section": "",
-    "text": "Our Goals : Tracking RNA viruses mainly Dengue and related Arboviruses, Understand how they Spread & Evolve, Evaluate available Diagnostic Tools, Detect Diagnostic Erosion and Design Updated tools.\nResearchgate"
-  },
-  {
-    "objectID": "OpenScience/2024-07-20_CHIKV_Build.html",
-    "href": "OpenScience/2024-07-20_CHIKV_Build.html",
-    "title": "Senegal CHIKV Strains Nextstrain Build in a Global Context",
-    "section": "",
-    "text": "Genomic monitoring of circulating strains in keys for public health. Herein we present a nextstain build of Senegalese CHIKV strains with contemporary isolates sampled in late 2023 in a global context. The build is accessible through CHIK_SN. Genomic is key to decipher viral epidemiology.\nCheck out my researchgate web page to learn more about my scientifique publications for more info on how to get the most out of my work. Files related to ressources for reproducible research are available at [Idrissa’s GitHub repo][IDaGhostWriter-gh]. If you have questions or collaboration requests send an email."
-  },
-  {
-    "objectID": "Devtools.html",
-    "href": "Devtools.html",
-    "title": "Developed Tools",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nDevelopment of A.E.R.S : A tool for experiments Booking at Arbovirology lab\n\n\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nRelease of O.Mi.Count a Oligonucleotides Erosion Signature Analysis Framework\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\n2 min\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "Scientific.html",
-    "href": "Scientific.html",
-    "title": "Scientific",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nDevelopment and validation of oligonucleotide sets for sequencing, real time detection and differentiation of re-emerged sylvatic Dengue virus 2 strains\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n2 min\n\n\n\n\n\n\n\n\n\n\n\n\nChikungunya PanGenotype Recovery\n\n\n\n\n\n\n\n\n\n\n\nFeb 6, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nOrigin and Spread of the Dengue Virus Type 1, Genotype V in Senegal, 2015–2019\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "PublishedArticles.html",
-    "href": "PublishedArticles.html",
-    "title": "List of publications Updates 06/08/2024",
-    "section": "",
-    "text": "CDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype\nGenomic characterization of a reemerging Chikungunya outbreak in Kedougou, Southeastern Senegal, 2023\nAn amplicon-based Illumina and nanopore sequencing workflow for Chikungunya virus West Africa genotype\nReemergence of Sylvatic Dengue Virus Serotype 2 in Kedougou, Senegal, 2020\nMolecular Evolution of Dengue Virus 3 in Senegal between 2009 and 2022: Dispersal Patterns and Implications for Prevention and Therapeutic Countermeasures\nAnalysis of a Dengue Virus Outbreak in Rosso, Senegal 2021\nIdentification of Pathogens Potentially Associated with Non-Malarial Fever in Children: A Pilot Study in Peri-Urban Dakar, Senegal\nFull genome analysis of circulating DENV-2 in Senegal reveals a regional diversification into separate clades\nDengue virus serotype 2 imported case from Côte d’Ivoire to Senegal, 2017\nQuantitative real time PCR detection of Saboya virus: A flavivirus member of yellow fever genetic group\nOrigin and Spread of the Dengue Virus Type 1, Genotype V in Senegal, 2015-2019\nRe-Emergence of Dengue Serotype 3 in the Context of a Large Religious Gathering Event in Touba, Senegal\nMolecular characterization of circulating Dengue virus 2 during an outbreak in Northern Senegal’s Saint-Louis region in 2018\nMultifoci and multiserotypes circulation of dengue virus in Senegal between 2017 and 2018\nA new lineage nomenclature to aid genomic surveillance of dengue virus\nDetection of Crimean Congo haemorrhagic fever virus in North-eastern Senegal, Bokidiawé 2019\nMolecular Detection and Genetic Characterization of Two Dugbe Orthonairovirus Isolates Detected from Ticks in Southern Senegal\nField Deployment of a Mobile Biosafety Laboratory Reveals the Co-Circulation of Dengue Viruses Serotype 1 and Serotype 2 in Louga City, Senegal, 2017\nGenomic Characterization of a Bataï Orthobunyavirus, Previously Classified as Ilesha Virus, from Field-Caught Mosquitoes in Senegal, Bandia 1969\nMobile Laboratory Reveals the Circulation of Dengue Virus Serotype I of Asian Origin in Medina Gounass (Guediawaye), Senegal\nThe Spatiotemporal Distribution and Molecular Characterization of Circulating Dengue Virus Serotypes/Genotypes in Senegal from 2019 to 2023"
-  },
-  {
-    "objectID": "La Masia.html",
-    "href": "La Masia.html",
-    "title": "La Masia",
-    "section": "",
-    "text": "Near future Scientist Seeds\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nLika Diouf\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nOmar Sy\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nLeon Sarr\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2025\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "OpenScience/2024-07-02_DENV-2_Build.html",
-    "href": "OpenScience/2024-07-02_DENV-2_Build.html",
-    "title": "Senegal DENV-2 Strains Nextstrain Build in a Global Context",
-    "section": "",
-    "text": "Genomic monitoring of circulating strains in keys for public health. Herein we present a nextstain build of Senegalese DENV-2 strains in a global context. The build is accessible through SND2.\nCheck out my researchgate web page to learn more about my scientifique publications for more info on how to get the most out of my work. Files related to ressources for reproducible research are available at [Idrissa’s GitHub repo][IDaGhostWriter-gh]. If you have questions or collaboration requests send an email."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Great Day",
-    "section": "",
-    "text": "Everything Will Happen At Dedicated Time !!!"
-  },
-  {
-    "objectID": "Scientific_Talk.html",
-    "href": "Scientific_Talk.html",
-    "title": "Scientific Talk",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nScientific Talk 1 : IPD Centenary\n\n\n\n\n\n\n\n\n\n\n\nFeb 6, 2025\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "DreamTeam/2024-08-08_Aminata.html",
-    "href": "DreamTeam/2024-08-08_Aminata.html",
-    "title": "Aminata Dia",
-    "section": "",
-    "text": "Aminata Dia aka “Pedri” is an BsC student working on the Diagnostic of Arbovirues. She primarily focused on Dengue virus.\nSkills : Molecular Biology, In-silico analysis, Sequencing"
+    "text": "Dr Idrissa Dieng is spearheading research into viruses, with a primary focus on arboviruses, particularly delving into molecular evolution and the advancement of diagnostic tools. Since its initial detection in Senegal in 1979, Dengue virus has been a prominent concern. The viral landscape, until 2009, was primarily characterized by the presence of sylvatic DENV-2 strains. However, a significant transition occurred with the onset of the first urban epidemic. Subsequently, annual epidemics have been documented since 2017. Despite this persistent circulation, there has been limited understanding of the genetic diversity of the virus.\nTo bridge this knowledge gap, we have utilized Next Generation Sequencing technologies, including Illumina and Nanopore, to conduct genomic surveillance of circulating viral strains in Senegal. This initiative is integrated into the Senegalese Syndromic Sentinel Surveillance program (4S Network). By doing so, we can effectively monitor the genetic composition of the virus and evaluate its implications for preventive, therapeutic, and diagnostic interventions.\nFurthermore, the insights gained and the advancements made in dengue diagnostics and genomic surveillance have been extended to other West African countries where dengue surveillance programs are deficient, such as Cabo Verde. My whole research is accessible at researchgate\nYou can found lastly published papers here:\nCDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype\nGenomic characterization of a reemerging Chikungunya outbreak in Kedougou, Southeastern Senegal, 2023"
   },
   {
     "objectID": "DreamTeam/2024-08-06_Mignane.html",
@@ -182,11 +91,102 @@
     "text": "Mignane aka “Halaand” is an amazing PhD student working on the Molecular Epidemiology and Diagnostic of Nairoviruses. He primarily focused on Dugbe Virus, Bandia virus (Understudied viruses) and the deadly widespread Crimee Congo Hemorraghic fever virus.\nSkills : Classical Virology, Molecular Biology, Sequencing, ELISA\nPublications :\n1.CDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype\n2.Molecular Detection and Genetic Characterization of Two Dugbe Orthonairovirus Isolates Detected from Ticks in Southern Senegal"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "The Scientist",
+    "objectID": "DreamTeam/2024-08-08_Aminata.html",
+    "href": "DreamTeam/2024-08-08_Aminata.html",
+    "title": "Aminata Dia",
     "section": "",
-    "text": "Idrissa Dieng is spearheading research into viruses, with a primary focus on arboviruses, particularly delving into molecular evolution and the advancement of diagnostic tools. Since its initial detection in Senegal in 1979, Dengue virus has been a prominent concern. The viral landscape, until 2009, was primarily characterized by the presence of sylvatic DENV-2 strains. However, a significant transition occurred with the onset of the first urban epidemic. Subsequently, annual epidemics have been documented since 2017. Despite this persistent circulation, there has been limited understanding of the genetic diversity of the virus.\nTo bridge this knowledge gap, we have utilized Next Generation Sequencing technologies, including Illumina and Nanopore, to conduct genomic surveillance of circulating viral strains in Senegal. This initiative is integrated into the Senegalese Syndromic Sentinel Surveillance program (4S Network). By doing so, we can effectively monitor the genetic composition of the virus and evaluate its implications for preventive, therapeutic, and diagnostic interventions.\nFurthermore, the insights gained and the advancements made in dengue diagnostics and genomic surveillance have been extended to other West African countries where dengue surveillance programs are deficient, such as Cabo Verde. My whole research is accessible at researchgate\nYou can found lastly published papers here:\nCDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype\nGenomic characterization of a reemerging Chikungunya outbreak in Kedougou, Southeastern Senegal, 2023"
+    "text": "Aminata Dia aka “Pedri” is an BsC student working on the Diagnostic of Arbovirues. She primarily focused on Dengue virus.\nSkills : Molecular Biology, In-silico analysis, Sequencing"
+  },
+  {
+    "objectID": "index_backup4.html",
+    "href": "index_backup4.html",
+    "title": "The Great Day",
+    "section": "",
+    "text": "Everything Will Happen At Dedicated Time !!!"
+  },
+  {
+    "objectID": "OpenScience/2024-07-02_DENV-2_Build.html",
+    "href": "OpenScience/2024-07-02_DENV-2_Build.html",
+    "title": "Senegal DENV-2 Strains Nextstrain Build in a Global Context",
+    "section": "",
+    "text": "Genomic monitoring of circulating strains in keys for public health. Herein we present a nextstain build of Senegalese DENV-2 strains in a global context. The build is accessible through SND2.\nCheck out my researchgate web page to learn more about my scientifique publications for more info on how to get the most out of my work. Files related to ressources for reproducible research are available at [Idrissa’s GitHub repo][IDaGhostWriter-gh]. If you have questions or collaboration requests send an email."
+  },
+  {
+    "objectID": "La Masia.html",
+    "href": "La Masia.html",
+    "title": "La Masia",
+    "section": "",
+    "text": "Near future Scientist Seeds\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nLika Diouf\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nOmar Sy\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nLeon Sarr\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2025\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "PublishedArticles.html",
+    "href": "PublishedArticles.html",
+    "title": "List of publications Updates 06/08/2024",
+    "section": "",
+    "text": "CDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype\nGenomic characterization of a reemerging Chikungunya outbreak in Kedougou, Southeastern Senegal, 2023\nAn amplicon-based Illumina and nanopore sequencing workflow for Chikungunya virus West Africa genotype\nReemergence of Sylvatic Dengue Virus Serotype 2 in Kedougou, Senegal, 2020\nMolecular Evolution of Dengue Virus 3 in Senegal between 2009 and 2022: Dispersal Patterns and Implications for Prevention and Therapeutic Countermeasures\nAnalysis of a Dengue Virus Outbreak in Rosso, Senegal 2021\nIdentification of Pathogens Potentially Associated with Non-Malarial Fever in Children: A Pilot Study in Peri-Urban Dakar, Senegal\nFull genome analysis of circulating DENV-2 in Senegal reveals a regional diversification into separate clades\nDengue virus serotype 2 imported case from Côte d’Ivoire to Senegal, 2017\nQuantitative real time PCR detection of Saboya virus: A flavivirus member of yellow fever genetic group\nOrigin and Spread of the Dengue Virus Type 1, Genotype V in Senegal, 2015-2019\nRe-Emergence of Dengue Serotype 3 in the Context of a Large Religious Gathering Event in Touba, Senegal\nMolecular characterization of circulating Dengue virus 2 during an outbreak in Northern Senegal’s Saint-Louis region in 2018\nMultifoci and multiserotypes circulation of dengue virus in Senegal between 2017 and 2018\nA new lineage nomenclature to aid genomic surveillance of dengue virus\nDetection of Crimean Congo haemorrhagic fever virus in North-eastern Senegal, Bokidiawé 2019\nMolecular Detection and Genetic Characterization of Two Dugbe Orthonairovirus Isolates Detected from Ticks in Southern Senegal\nField Deployment of a Mobile Biosafety Laboratory Reveals the Co-Circulation of Dengue Viruses Serotype 1 and Serotype 2 in Louga City, Senegal, 2017\nGenomic Characterization of a Bataï Orthobunyavirus, Previously Classified as Ilesha Virus, from Field-Caught Mosquitoes in Senegal, Bandia 1969\nMobile Laboratory Reveals the Circulation of Dengue Virus Serotype I of Asian Origin in Medina Gounass (Guediawaye), Senegal\nThe Spatiotemporal Distribution and Molecular Characterization of Circulating Dengue Virus Serotypes/Genotypes in Senegal from 2019 to 2023"
+  },
+  {
+    "objectID": "Scientific.html",
+    "href": "Scientific.html",
+    "title": "Scientific",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nDevelopment and validation of oligonucleotide sets for sequencing, real time detection and differentiation of re-emerged sylvatic Dengue virus 2 strains\n\n\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n2 min\n\n\n\n\n\n\n\n\n\n\n\n\nChikungunya PanGenotype Recovery\n\n\n\n\n\n\n\n\n\n\n\nFeb 6, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nOrigin and Spread of the Dengue Virus Type 1, Genotype V in Senegal, 2015–2019\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Devtools.html",
+    "href": "Devtools.html",
+    "title": "Developed Tools",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nDevelopment of iMSA : A tool for Oligo erosion MSA plotting\n\n\n\n\n\n\n\n\n\n\n\nMay 20, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nDevelopment of A.E.R.S : A tool for experiments Booking at Arbovirology lab\n\n\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nRelease of O.Mi.Count a Oligonucleotides Erosion Signature Analysis Framework\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\n2 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "OpenScience/2024-07-20_CHIKV_Build.html",
+    "href": "OpenScience/2024-07-20_CHIKV_Build.html",
+    "title": "Senegal CHIKV Strains Nextstrain Build in a Global Context",
+    "section": "",
+    "text": "Genomic monitoring of circulating strains in keys for public health. Herein we present a nextstain build of Senegalese CHIKV strains with contemporary isolates sampled in late 2023 in a global context. The build is accessible through CHIK_SN. Genomic is key to decipher viral epidemiology.\nCheck out my researchgate web page to learn more about my scientifique publications for more info on how to get the most out of my work. Files related to ressources for reproducible research are available at [Idrissa’s GitHub repo][IDaGhostWriter-gh]. If you have questions or collaboration requests send an email."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ArboDiaGen (A.R.C Initiative)",
+    "section": "",
+    "text": "Our Goals : Tracking RNA viruses mainly Dengue and related Arboviruses, Understand how they Spread & Evolve, Evaluate available Diagnostic Tools, Detect Diagnostic Erosion and Design Updated tools.\nResearchgate"
+  },
+  {
+    "objectID": "Scientific_Talk.html",
+    "href": "Scientific_Talk.html",
+    "title": "Scientific Talk",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPodcast CARE\n\n\n\n\n\n\n\n\n\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "DreamTeam.html",
+    "href": "DreamTeam.html",
+    "title": "Dream Team Members",
+    "section": "",
+    "text": "My Young, Awesome and Superstars Scientists.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAminata Dia\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nDiamilatou Balde\n\n\n\n\n\n\n\n\n\n\n\nAug 7, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nMignane Ndiaye\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nAgathe Shella Efire\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "DreamTeam/2024-08-07_Diamilatou.html",
+    "href": "DreamTeam/2024-08-07_Diamilatou.html",
+    "title": "Diamilatou Balde",
+    "section": "",
+    "text": "Diamilatou Balde aka “Mbappe” is an awesome MsC student working on the Molecular Epidemiology and Diagnostic of Arbovirues. She primarily focused on Dengue and Chikungunya viruses.\nSkills : Classical Virology, Molecular Biology, Sequencing\nPublications :\n1.Molecular Evolution of Dengue Virus 3 in Senegal between 2009 and 2022: Dispersal Patterns and Implications for Prevention and Therapeutic Countermeasures"
+  },
+  {
+    "objectID": "DreamTeam/2024-08-06_Shella.html",
+    "href": "DreamTeam/2024-08-06_Shella.html",
+    "title": "Agathe Shella Efire",
+    "section": "",
+    "text": "Agathe Shella Efire “Auba” Master’s student, working on the molecular diagnosis of arboviruses and managing a syndromic surveillance project in Senegal (4S), aimed at improving patient care in hospitals, while targeting a range of pathogens in order to develop molecular and serological diagnostic tests.\nSkills : Classical Virology, Molecular Biology, Sequencing, ELISA"
+  },
+  {
+    "objectID": "Devtools/2024-07-02_OMiCount.html",
+    "href": "Devtools/2024-07-02_OMiCount.html",
+    "title": "Release of O.Mi.Count a Oligonucleotides Erosion Signature Analysis Framework",
+    "section": "",
+    "text": "Launch of OMiCount: Innovating Molecular Diagnostics and Genomic Characterization We are thrilled to announce the launch of OMiCount, an innovative bioinformatics tool developed by Idrissa Dieng, a scientist at the Institut Pasteur de Dakar. OMiCount is designed to improve laboratory work, maximize precision and save time. To strengthen its wide use, In collaboration with Mamadou Cisse of the Digitalization and Information System Department (DDSI), the tool will soon be available to the general public via a web portal. The Oligonucleotides Mismatches Counter (OMiCount) is a transformative bioinformatics tool that evaluates the performance of primer sets against a diverse array of virus variants. This innovation significantly enhances molecular diagnostics and genomic characterization, making substantial contributions to virology, public health, and genomic surveillance. OMiCount has also contributed to the discovery of a key element in the diagnosis of the chikungunya virus. The discovery was published online last week CDC Trioplex diagnostic assay underperforms in detection of circulating Chikungunya West African genotype\nKey Impacts of OMiCount:\n\nImproved Molecular Diagnostics: Primer Validation, Rapid Adaptation, Efficiency and Degenerate Primer Design.  \nEnhanced Genomic Characterization: Comprehensive Analysis, Visual Representation and Optimized Primers \nSupporting Genomic Surveillance: Real-Time Monitoring, Accurate Detection and Adaptability.  \nFacilitating Public Health Responses: Timely Identification, Resource Optimization and Enhanced Testing Capabilities. \nGlobal Health Impact: Preparedness and Response, Collaborative Efforts and Innovation in Diagnostics. \n\nIn summary, OMiCount significantly enhances molecular diagnostics and genomic characterization by providing a simple, reliable, efficient, and comprehensive method for oligonucleotide performance evaluation. Its ability to adapt to viral evolution, generate degenerate primers, and offer clear visualizations of primer performance makes it an indispensable tool in the ongoing efforts to combat viral diseases and the mitigation of their impact in public health.\nCheck out my researchgate web page to learn more about my scientifique publications for more info on how to get the most out of my work. Files related to ressources for reproducible research are available at [Idrissa’s GitHub repo][IDaGhostWriter-gh]. If you have questions or collaboration requests send an email."
   },
   {
     "objectID": "Devtools/2024-08-09_AERS.html",

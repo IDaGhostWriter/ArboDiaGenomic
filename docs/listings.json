@@ -7,19 +7,11 @@
     ]
   },
   {
-    "listing": "/DreamTeam.html",
+    "listing": "/La Masia.html",
     "items": [
-      "/DreamTeam/2024-08-08_Aminata.html",
-      "/DreamTeam/2024-08-07_Diamilatou.html",
-      "/DreamTeam/2024-08-06_Mignane.html",
-      "/DreamTeam/2024-08-06_Shella.html"
-    ]
-  },
-  {
-    "listing": "/Devtools.html",
-    "items": [
-      "/Devtools/2024-08-09_AERS.html",
-      "/Devtools/2024-07-02_OMiCount.html"
+      "/LaMasia/2025-01-01_Lika.html",
+      "/LaMasia/2025-01-01_Omar Sy.html",
+      "/LaMasia/2025-01-01_Leon Bruno Sarr.html"
     ]
   },
   {
@@ -31,17 +23,26 @@
     ]
   },
   {
-    "listing": "/La Masia.html",
+    "listing": "/Devtools.html",
     "items": [
-      "/LaMasia/2025-01-01_Lika.html",
-      "/LaMasia/2025-01-01_Omar Sy.html",
-      "/LaMasia/2025-01-01_Leon Bruno Sarr.html"
+      "/Devtools/2025-05-23_iMSA.html",
+      "/Devtools/2024-08-09_AERS.html",
+      "/Devtools/2024-07-02_OMiCount.html"
     ]
   },
   {
     "listing": "/Scientific_Talk.html",
     "items": [
       "/Scientific Talk/Scientific_Talk_1.html"
+    ]
+  },
+  {
+    "listing": "/DreamTeam.html",
+    "items": [
+      "/DreamTeam/2024-08-08_Aminata.html",
+      "/DreamTeam/2024-08-07_Diamilatou.html",
+      "/DreamTeam/2024-08-06_Mignane.html",
+      "/DreamTeam/2024-08-06_Shella.html"
     ]
   },
   {

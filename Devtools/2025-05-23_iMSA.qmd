@@ -1,0 +1,25 @@
+---
+title: "Development of iMSA : A tool for Oligo erosion MSA plotting"
+date:   2025-05-20 15:22:37 +0000
+---
+
+![](iMSA_Logo.png)
+
+**iMSA:** Interactive Multiple Sequence Alignement Plotting for Assay Erosion Analysis
+
+This tools is 3rd Module as part of the **ACACIA** project.
+ [iMSA Link](https://idevfactory.shinyapps.io/iMSA/)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

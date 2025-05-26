@@ -1,11 +1,21 @@
 ---
-title: "Scientific Talk 1 : IPD Centenary"
+title: "Podcast CARE"
 format: html
-date:   2025-02-06 15:22:37 +0000
+filters: []  # ← très important pour désactiver le filtre buggy
 ---
 
+## 🎧 Épisode avec Dr. Idrissa Dieng : Field Simulation of Outbreak Response
 
-**IPD Centenary:** 
+<iframe src="https://creators.spotify.com/pod/show/care-ipd/embed/episodes/Le-Dr--Idrissa-Dieng-Raconte-le-Dploiement-du-Lab-Mobile-Praesens-CARE-e31rlg4/a-abt9c4n"
+        height="400px"
+        width="800px"
+        frameborder="0"
+        scrolling="no">
+</iframe>
 
 
-{{< video https://www.youtube.com/watch?v=_9oZX0Yvghk title="What is the CERN?" start="116" end="123" aspect-ratio="21x9" >}}
+
+
+
+
+

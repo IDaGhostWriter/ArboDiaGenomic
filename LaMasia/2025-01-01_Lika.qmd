@@ -5,8 +5,23 @@ date:   2025-01-01 15:22:37 +0000
 
 
 
-Lika aka *Cassado* is a BsC student working on a project related to CHIKV diagnostic.
-Following the noticed lack of performance of CDC trioplex to detect West African genotype the project aim to design updated tool.
+Lika aka *Yamal* is a BsC student working on a project related to CHIKV diagnostic.
+Chikungunya virus (CHIKV), an arbovirus belonging to the Togaviridae family and the Alphavirus genus,
+causes large-scale epidemics in tropical and subtropical regions and is therefore becoming a major global
+health concern. It shares its transmission vectors with other arboviruses such as dengue and Zika and
+symptoms overlap among the three viruses in regions where they co-circulate. Accurate diagnostic tools
+are therefore crucial. Following the noticed lack of performance of CDC trioplex assay 
+(a widely used free of charge molecular assay) 
+to detect West African genotype the project aim to design updated tool.
+The concerns the Update of the Trioplex system, a test based on the RT-qPCR technique which uses
+specific primers for each virus (chikungunya, dengue, zika) in order to detect their viral RNA, for the
+molecular detection of genotypes of the Chikungunya virus. This is achieved by the creation of new
+primers matching the genotypes of CHIKV circulating in Senegal as well as a comparative study of this
+system with the internal system of the IPD as well as the Trioplex system.
+
+
+
+
 
 
 
