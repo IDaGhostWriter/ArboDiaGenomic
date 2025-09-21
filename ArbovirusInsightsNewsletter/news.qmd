@@ -1,0 +1,67 @@
+---
+title: "Arbovirus Insights - Newsletter - 01"
+format: html
+filters: []  # ← très important pour désactiver le filtre buggy
+date:   2025-09-21 19:41:37 +0000
+---
+
+
+
+
+
+
+
+
+
+## Sylvatic DENV Reemergence: A Duality between Senegal (West Africa) and Malaysia (Southeast Asia)
+
+<img src="Draft_Tree_trans2_Stamped.png" width="80%" 
+     oncontextmenu="return false;" 
+     style="user-drag: none; -webkit-user-drag: none; pointer-events: none;" 
+     alt="Figure 1: Sylvatic DENV-2 emergence in Senegal">
+
+Figure 1: Dual Sylvatic Dengue virus 2 Re-emergence throught gene target failure
+
+**1. Our Previous Work (Senegal Context) (Dieng et al., 2022 / Dieng et al., 2024)**
+
+- We demonstrated that three commonly used molecular serotyping assays failed to assign sylvatic **DENV-2** to any serotype.  
+- This was not a laboratory artifact but a diagnostic blind spot: primers and probes optimized for urban dengue lineages poorly match divergent sylvatic genomes.  
+- Cases in Senegal (Kolda, 2021; Kédougou, 2020) show that sylvatic dengue continues to spill over into humans. Yet, current surveillance underestimates its presence, as “undetermined serotype” results are often dismissed rather than investigated.  
+- To address this, we developed and optimized oligo sets tailored for sylvatic diversity, highlighting the need to either rethink serotyping tools or systematically leverage assay failures alongside complementary molecular methods.
+
+**2. The Malaysian Study (Suppiah et al.,2025)**
+
+- Researchers in Malaysia reported human cases labelled as “undetermined serotype.”  
+- Sequencing confirmed these were sylvatic **DENV-2** (and a divergent **DENV-3**), revealing the same diagnostic blind spot we observed in Senegal.  
+- The failures stemmed from primer–probe mismatches due to genetic divergence, not absence of the virus.  
+- Their analysis also highlighted amino-acid signatures in sylvatic **DENV-2** that explain diagnostic mismatches, mirroring our findings in West Africa.
+
+**3. The Duality**
+
+These complementary observations reveal a clear mirror between two geographically distant regions:
+
+| West Africa (Senegal) | Southeast Asia (Malaysia) |
+|---|---|
+| 2020–2021 human infections labelled “unassigned serotype” → actually sylvatic **DENV-2**  |  2024–2025 cases labelled “undetermined serotype” → mostly sylvatic **DENV-2**  |
+| Failure of three serotyping assays (our work)  | Failure of commercial diagnostic kits (Suppiah et al., 2025) |
+| Developed oligo strategies (singleplex & multiplex with urban genotypes) to bridge the gap | Identified genomic/AA signatures explaining diagnostic failure |
+
+**Key Messages**
+
+- Two distant regions (Africa ↔ Asia) report the same phenomenon: assay failures masking sylvatic dengue.  
+- The hidden culprit is convergent: sylvatic dengue lineages diverging from urban genotypes.  
+- The shared risk is a surveillance blind spot, leading to an underestimated sylvatic disease burden.
+
+**4. Framing the Implications**
+
+- **Continuity:** Our Senegal research anticipated and addressed this diagnostic gap; Malaysian findings independently validate the phenomenon.  
+- **Global Duality:** Sylvatic dengue emergence is not a local anomaly — it exposes a convergent surveillance weakness across continents.  
+- **Call to Action:** These observations collectively argue for a paradigm shift in diagnostics: routine assays must evolve beyond urban serotypes and systematically integrate sylvatic diversity. This is precisely the direction pursued by our oligo strategies.
+
+---
+
+**Dr Idrissa DIENG**  
+Native Mechanic ⚙️🛠️ - Research Scientist 🧬🦠 
+Virology Department — Institut Pasteur de Dakar
+EvoSenSe
+
